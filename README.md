@@ -21,7 +21,7 @@ rotation period distribution from vsini and radius (Masuda, Petigura, Hall 2021)
 
   simulate mock catalogs of radii and vsini for a given prot distribution
 
-  samples.csv files are the datasets used in the paper 
+  samples.csv files in sim-* directories are the datasets used in the paper 
 
 - period_posterior.py, run_hierarchical.py
 
