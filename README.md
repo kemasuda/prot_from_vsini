@@ -27,9 +27,13 @@ rotation period distribution from vsini and radius (Masuda, Petigura, Hall 2021)
 
   same as in the main analysis
 
+  <!--
+
 - run_hierarchical_MC.py
 
   run hierarchical analyses for random subsets of the simulated samples and check how much the results fluctuate depending on the sample size
+
+  -->
 
   
 
