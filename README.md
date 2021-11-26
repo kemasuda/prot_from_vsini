@@ -13,7 +13,7 @@ rotation period distribution from vsini and radius (Masuda, Petigura, Hall 2021)
 
 - run_hierarchical.py
 
-  run the main hierarchical analysis to infer prot distribution
+  run the main hierarchical analysis to infer prot distribution (requires likelihood files from period_posterior.py)
 
 #### simulation: scripts for injection recovery tests
 
