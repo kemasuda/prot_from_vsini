@@ -3,6 +3,10 @@ rotation period distribution from vsini and radius
 
 #### main: scripts for main analysis
 
+- data/sample_stars.csv
+
+  parameters of the 144 stars used in the main anlaysis
+
 - period_posterior.py
 
   compute marginal likelihood for prot and save results 
