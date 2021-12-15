@@ -1,5 +1,5 @@
 # prot_from_vsini
-rotation period distribution from vsini and radius (Masuda, Petigura, Hall 2021)
+rotation period distribution from vsini and radius ([Masuda, Petigura, Hall 2021](http://arxiv.org/abs/2112.07162))
 
 #### main: scripts for main analysis
 
